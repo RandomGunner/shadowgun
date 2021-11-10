@@ -1,22 +1,6 @@
 const fs = require('fs'),
     path = require('path');
 
-//const DataCenter_ClassNames = {
-//    "warrior": "Warrior",
-//    "lancer": "Lancer",
-//    "slayer": "Slayer",
-//    "berserker": "Berserker",
-//    "sorcerer": "Sorcerer",
-//    "archer": "Archer",
-//    "priest": "Priest",
-//    "elementalist": "Mystic",
-//    "soulless": "Reaper",
-//    "engineer": "Gunner",
-//    "fighter": "Brawler",
-//    "assassin": "Ninja",
-//    "glaiver": "Valkyrie"
-//};
-
 module.exports = function GunJS(mod) {
     const { command } = mod;
     const { player } = mod.require.library;
