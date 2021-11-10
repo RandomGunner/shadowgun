@@ -1,0 +1,16 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Shadow Gun",
+    "author": "A gunner, who cares?",
+    "description": "Because you're too jealous of FastValk, you cut your animations too like an autist you are.",
+    "version": "0.11",
+    "options": {
+        "niceName": "Shadowgun",
+        "reloadable": true
+    },
+    "dependencies": {
+        "library": "https://raw.githubusercontent.com/Kaseaa/library/master/module.json"
+    },
+  "servers": [ "https://raw.githubusercontent.com/Ikikaeru/ShadowGun/master/" ],
+    "supportUrl": ""
+}

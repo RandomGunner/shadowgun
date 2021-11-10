@@ -1,0 +1,14 @@
+{
+  "files": {
+    "README.md": "2e65e10151191f890d9057ba0b9f6498597c50d5a470d81fd0f5fcd9c2ba392c",
+    "config.json": "dc67294dd39a9969b7a4c58b7ffc9c1b7b8016fbd60f5ac48693acd65522b42b",
+    "index.js": "d61d6279bf2edee87f80eb1ea9241afcb60333e7f54806319989371cf69078f7",
+    "module.json": "b662e23d6835c23755b30ee2734e43d34608aa9a6f0206c2c1e1b98f735bd59a"
+  },
+    "defs": {
+        "C_CANCEL_SKILL": 3,
+        "S_ACTION_END": 5,
+        "S_ACTION_STAGE": 9,
+        "S_EACH_SKILL_RESULT": 15
+    }
+}
