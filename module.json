@@ -11,6 +11,6 @@
     "dependencies": {
         "library": "https://raw.githubusercontent.com/Kaseaa/library/master/module.json"
     },
-  "servers": [ "https://raw.githubusercontent.com/Ikikaeru/ShadowGun/master/" ],
+  "servers": [ "https://raw.githubusercontent.com/RandomGunner/shadowgun/master/" ],
     "supportUrl": ""
 }
